@@ -30,11 +30,11 @@ class Form {
         uid: this.input3.value()
       });
 
-      this.title2.html("YOU ARE NOW IN TOURNAMENT");
-      this.title2.position(325, 400);
-      this.title2.style('color', 0);
+//       this.title2.html("YOU ARE NOW IN TOURNAMENT");
+//       this.title2.position(325, 400);
+//       this.title2.style('color', 0);
 
-      this.button.hide();
+//       this.button.hide();
       });
 
       image(this.image, 530, 530, 50, 50);
